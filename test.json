@@ -1,0 +1,25 @@
+{
+  "component": "dv-water-level-pond",
+  "label": "水位图",
+  "attribute": {
+    "style": {
+      "width": "150px",
+      "height": "200px",
+      "position": "absolute",
+      "top": "10px",
+      "left": "10px",
+      "deep": {
+        "width": "100%",
+        "height": "100%"
+      }
+    },
+    "class": [],
+    "props": {
+      "config": {
+        "data": [66, 45],
+        "shape": "roundRect"
+      }
+    }
+  },
+  "children": []
+}
